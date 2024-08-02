@@ -1,6 +1,6 @@
 {
     "github_url":"https://react-ally-app.github.io/ra-data/",
-    "vercel_api":"http://192.168.29.80:3000/",
+    "vercel_api":"http://192.168.29.80:3000",
     "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
     "latest_version":1,
     "mandatory":true,
