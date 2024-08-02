@@ -1,0 +1,79 @@
+{
+    "github_url":"https://react-ally-app.github.io/ra-data/",
+    "vercel_api":"",
+    "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
+    "latest_version":1,
+    "mandatory":true,
+    "flag":0,
+    "feedback":{
+        "msg":"",
+        "url":"",
+        "options":[],
+        "url_text":""
+    },
+    "msg":"",
+    "download_url":"",
+    "options":[],
+    "app_url":"",
+    "app_name":"React Ally",
+    "release_features":[],
+    "gmail":"react.ally.app@gmail.com",
+    "downTimeAlert":{
+        "showDownTimeAlert":false,
+        "heading":"Notice",
+        "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Please report to us",
+            "subject":"App is down for maintenance",
+            "body":"",
+            "email":"react.ally.app@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
+        }
+    },
+    "apiFailAlert":{
+        "heading":"Notice",
+        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Report to us",
+            "subject":"App is unable to fetch data",
+            "body":"",
+            "email":"react.ally.app@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
+        }
+    },
+    "updateAlert":{
+        "heading":"Update",
+        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+        "showMailBox":false,
+        "mailBox":{},
+        "showList": false,
+        "list":[]
+    },
+    "rateAlert":{
+        "heading":"Rate Us",
+        "subheading":"Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+        "showMailBox": false,
+        "mailBox":{}
+    },
+    "messageAlert":{
+        "showMessageAlert":false,
+        "heading":"Message",
+        "subheading":"We have a new app check it out now",
+        "showMailBox": false,
+        "mailBox":{},
+        "showUrl": true,
+        "urlData":{
+            "url":"www.google.com",
+            "text":"Click to open"
+        }
+    },
+    "carousel":{
+        "showCarousel":false,
+        "banners":[
+        ]
+    }
+}
