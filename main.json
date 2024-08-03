@@ -3,6 +3,7 @@
     "vercel_api":"http://192.168.29.80:3000",
     "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
     "send_email_api":"https://send-email-api-nu.vercel.app/send-email",
+    "update_email_sheet":"https://script.google.com/macros/s/AKfycbwlrH5_Bpg2eiGZQwUmKdt1gd5ttrWN9qjHMK93c_hBpWVc2_CThVnATsfCN1lvNfMrWQ/exec",
     "otp_sign_in_enabled":true,
     "latest_version":1,
     "mandatory":true,
