@@ -102,29 +102,5 @@
             }
         ]
     },
-    "testimonialsCarousel":{
-        "showTestimonials":false,
-        "testimonials":[
-            {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
-                "id":1,
-                "link":""
-            },
-            {
-                "url":"https://picsum.photos/536/354",
-                "id":2,
-                "link":""
-            },
-            {
-                "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGNAtCm9OqKTg2Vyy5QusqtpShPSrpn2S0g&s",
-                "id":3,
-                "link":""
-            },
-            {
-                "url":"https://store-images.s-microsoft.com/image/apps.44122.14393276044279732.a2dc62ed-f48c-4333-8800-5dd9645ff31a.76e34181-c386-4673-8f9b-15ee3b74f463?q=90&w=480&h=270",
-                "id":4,
-                "link":""
-            }
-        ]
-    }
+    "showTestimonials":false
 }
