@@ -63,7 +63,7 @@
         "mailBox":{}
     },
     "messageAlert":{
-        "showMessageAlert":false,
+        "showMessageAlert":true,
         "heading":"Message",
         "subheading":"We have a new app check it out now",
         "showMailBox": false,
@@ -75,13 +75,53 @@
         }
     },
     "carousel":{
-        "showCarousel":false,
+        "showCarousel":true,
         "banners":[
+             {
+                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
+                "id":1,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            },
+            {
+                "url":"https://picsum.photos/536/354",
+                "id":2,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            },
+            {
+                "url":"https://picsum.photos/536/354",
+                "id":3,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            },
+            {
+                "url":"https://picsum.photos/536/354",
+                "id":4,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            }
         ]
     },
     "testimonialsCarousel":{
         "showTestimonials":false,
         "testimonials":[
+            {
+                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
+                "id":1,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            },
+            {
+                "url":"https://picsum.photos/536/354",
+                "id":2,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            },
+            {
+                "url":"https://picsum.photos/536/354",
+                "id":3,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            },
+            {
+                "url":"https://picsum.photos/536/354",
+                "id":4,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            }
         ]
     }
 }
