@@ -1,106 +1,85 @@
 {
-    "github_url":"https://react-ally-app.github.io/ra-data/",
-    "vercel_api":"http://192.168.29.80:3000",
-    "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
-    "send_email_api":"https://send-email-api-taupe.vercel.app/",
-    "otp_endpoint":"send-email",
-    "featured_endpoint": "send-featured-email",
-    "get_featured_endpoint":"featured-info",
-    "update_email_sheet":"https://script.google.com/macros/s/AKfycbx91LVKx48a439GpED4JmMz-w9XQ99jNKwM77hG8HRJItrGWJbFbESCnSdto23neY8WGA/exec",
-    "otp_sign_in_enabled":true,
-    "latest_version":1,
-    "mandatory":true,
-    "flag":0,
-    "feedback":{
-        "msg":"",
-        "url":"",
-        "options":[],
-        "url_text":""
-    },
-    "msg":"",
-    "download_url":"",
-    "options":[],
-    "app_url":"",
-    "app_name":"React Ally",
-    "release_features":[],
-    "gmail":"react.ally.app@gmail.com",
-    "downTimeAlert":{
-        "showDownTimeAlert":false,
-        "heading":"Notice",
-        "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Please report to us",
-            "subject":"App is down for maintenance",
-            "body":"",
-            "email":"react.ally.app@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        }
-    },
-    "apiFailAlert":{
-        "heading":"Notice",
-        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Report to us",
-            "subject":"App is unable to fetch data",
-            "body":"",
-            "email":"react.ally.app@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        }
-    },
-    "updateAlert":{
-        "heading":"Update",
-        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
-        "showMailBox":false,
-        "mailBox":{},
-        "showList": false,
-        "list":[]
-    },
-    "rateAlert":{
-        "heading":"Rate Us",
-        "subheading":"Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
-        "showMailBox": false,
-        "mailBox":{}
-    },
-    "messageAlert":{
-        "showMessageAlert":true,
-        "heading":"Message",
-        "subheading":"We have a new app check it out now",
-        "showMailBox": false,
-        "mailBox":{},
-        "showUrl": true,
-        "urlData":{
-            "url":"www.google.com",
-            "text":"Click to open"
-        }
-    },
-    "carousel":{
-        "showCarousel":true,
-        "banners":[
-             {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
-                "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
-            },
-            {
-                "url":"https://picsum.photos/536/354",
-                "id":2,
-                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
-            },
-            {
-                "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGNAtCm9OqKTg2Vyy5QusqtpShPSrpn2S0g&s",
-                "id":3,
-                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
-            },
-            {
-                "url":"https://store-images.s-microsoft.com/image/apps.44122.14393276044279732.a2dc62ed-f48c-4333-8800-5dd9645ff31a.76e34181-c386-4673-8f9b-15ee3b74f463?q=90&w=480&h=270",
-                "id":4,
-                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
-            }
-        ]
-    },
-    "showTestimonials":false
+  "github_url": "https://react-ally-app.github.io/ra-data/",
+  "vercel_api": "https://programmer-ally.vercel.app",
+  "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
+  "send_email_api": "https://send-email-api-taupe.vercel.app/",
+  "otp_endpoint": "send-email",
+  "featured_endpoint": "send-featured-email",
+  "get_featured_endpoint": "featured-info",
+  "update_email_sheet": "https://script.google.com/macros/s/AKfycbx91LVKx48a439GpED4JmMz-w9XQ99jNKwM77hG8HRJItrGWJbFbESCnSdto23neY8WGA/exec",
+  "otp_sign_in_enabled": true,
+  "latest_version": 1,
+  "mandatory": true,
+  "flag": 0,
+  "feedback": {
+    "msg": "",
+    "url": "",
+    "options": [],
+    "url_text": ""
+  },
+  "msg": "",
+  "download_url": "",
+  "options": [],
+  "app_url": "https://play.google.com/store/apps/details?id=com.reactally",
+  "app_name": "React Ally",
+  "release_features": [],
+  "gmail": "react.ally.app@gmail.com",
+  "downTimeAlert": {
+    "showDownTimeAlert": false,
+    "heading": "Notice",
+    "subheading": "App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Please report to us",
+      "subject": "App is down for maintenance",
+      "body": "",
+      "email": "react.ally.app@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "apiFailAlert": {
+    "heading": "Notice",
+    "subheading": "There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "App is unable to fetch data",
+      "body": "",
+      "email": "react.ally.app@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": []
+  },
+  "rateAlert": {
+    "heading": "Rate Us",
+    "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+    "showMailBox": false,
+    "mailBox": {}
+  },
+  "messageAlert": {
+    "showMessageAlert": false,
+    "heading": "Message",
+    "subheading": "We have a new app check it out now",
+    "showMailBox": false,
+    "mailBox": {},
+    "showUrl": true,
+    "urlData": {
+      "url": "www.google.com",
+      "text": "Click to open"
+    }
+  },
+  "carousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "showTestimonials": false
 }
