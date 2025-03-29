@@ -11,6 +11,7 @@
   "latest_version": 2,
   "showAdFreeBtn": false,
   "adFrequency": 4,
+  "showFirstAd": true,
   "mandatory": true,
   "flag": 0,
   "feedback": {
